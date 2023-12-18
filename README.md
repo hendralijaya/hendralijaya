@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Digitrans as a Full Stack Developer
 - 🌱 I’m currently learning Android Development and Backend with Kotlin and Java
 - 💬 Ask me about Backend, Frontend, and Android Development
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hendra-lijaya/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hendra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hendra-lijaya/)
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
