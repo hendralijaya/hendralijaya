@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**hendralijaya/hendralijaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Digitrans as a Full Stack Developer
 - 🌱 I’m currently learning Android Development and Backend with Kotlin and Java
 - 💬 Ask me about Backend, Frontend, and Android Development
