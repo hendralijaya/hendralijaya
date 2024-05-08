@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Digitrans as a Full Stack Developer
-- 🌱 I’m currently learning Android Development and Backend with Kotlin and Java
+- 🔭 I’m currently internship in Apple Academy Cohort 7
+- 🌱 I’m currently learning IOS Development
 - 💬 Ask me about Backend, Frontend, and Android Development
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hendra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hendra-lijaya/)
 
